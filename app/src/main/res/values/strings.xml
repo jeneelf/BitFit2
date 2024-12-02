@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">BitFit1</string>
+    <string name="enter_amount_of_water_drank">Enter Amount of Water Drank:</string>
+    <string name="notes">Notes</string>
+    <string name="quantity_glasses">Quantity (Glasses)</string>
+    <string name="button">Button</string>
+    <string name="add_water_entry">Add Water Entry</string>
+    <string name="date_e_g_01_12_2024">Date (e.g., 01/12/2024)</string>
+    <string name="water_amount_e_g_2_liters">Water Amount (e.g., 2 liters)</string>
+    <string name="notes_optional">Notes (optional)</string>
+    <string name="save_entry">Save Entry</string>
+    <string name="add_entry">Add Entry</string>
+    <string name="water_consumption_tracker">Water Consumption Tracker</string>
+    <string name="date">Date</string>
+</resources>

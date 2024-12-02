@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:background="?android:attr/selectableItemBackground"
+    android:layout_marginBottom="8dp">
+
+    <TextView
+        android:id="@+id/dateTextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/date"
+        android:textSize="16sp"
+        android:textColor="#000000"
+        android:fontFamily="sans-serif-medium" />
+
+
+    <TextView
+        android:id="@+id/waterAmountTextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Water: 0L"
+        android:textSize="14sp"
+        android:textColor="#00796B"
+        android:paddingTop="4dp" />
+
+
+    <TextView
+        android:id="@+id/notesTextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Notes: None"
+        android:textSize="12sp"
+        android:textColor="#757575"
+        android:paddingTop="4dp" />
+
+</LinearLayout>
